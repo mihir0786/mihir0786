@@ -13,13 +13,14 @@
 Tech Stack Section 
  <h3 align="center">Technologies & Tools I Use 💻</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="60" height="60"/> </a> 
+  <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="cplusplus" width="80" height="60"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60"/> </a> 
+  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="80" height="60"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="60"/> </a> 
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="pandas" width="80" height="60"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="80" height="60"/> </a>
+  <a href="https://public.tableau.com/app/discover" target="_blank"><img width="80" height="60" alt="tableau-software-48" src="https://github.com/user-attachments/assets/3ffa451e-e15a-4324-a425-978f042cfbed" /> </a>
+
   
-   
 </p>
 
 <hr>
