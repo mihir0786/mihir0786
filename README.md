@@ -10,8 +10,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir0786&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Mihir's Top Languages" />
 </p>
 
+
 <hr>
 
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir0786&layout=compact&theme=jolly)]
 <!-- Tech Stack Section -->
 <!-- <h3 align="center">Technologies & Tools I Use 💻</h3>
 <p align="center">
