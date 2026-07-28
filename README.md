@@ -114,7 +114,7 @@ Analyzed more than **58,000 Gainesville traffic crash records from 2015–2025**
 - Translated analytical findings into transportation-safety recommendations focused on pedestrians and cyclists.
 
 <p>
-  <a href="YOUR-CRASH-PROJECT-LINK">
+  <a href="https://github.com/mihir0786/Gainesville-Crash-Analysis">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
