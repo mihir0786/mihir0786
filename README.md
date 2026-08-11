@@ -121,7 +121,7 @@ Analyzed more than **58,000 Gainesville traffic crash records from 2015–2025**
 
 ---
 
-### 🤖 Financial Document Intelligence Application
+### 🤖 Financial Document Intelligence Application ( Internship )
 
 **Python | LangChain | RAG | FAISS | ChromaDB | LLM Evaluation**
 
@@ -144,7 +144,7 @@ Developed an AI-powered document Q&A application that retrieves relevant informa
 
 ---
 
-### ⚡ LTE/5G Energy Analytics Dashboard
+### ⚡ LTE/5G Energy Analytics Dashboard ( Internship )
 
 **Python | Streamlit | Pandas | Operational Analytics | Data Visualization**
 
@@ -225,7 +225,7 @@ Developed an interactive analytics dashboard to evaluate LTE and 5G energy consu
 
 `Data Cleaning` • `Feature Engineering` • `ETL` • `Exploratory Data Analysis`  
 `Statistical Analysis` • `Hypothesis Testing` • `Chi-Square Testing`  
-`Logistic Regression` • `Ad-hoc Analysis`
+`Logistic Regression` • `Ad-hoc Analysis`• `Excel`
 
 ### Business Intelligence and Visualization
 
@@ -237,7 +237,7 @@ Developed an interactive analytics dashboard to evaluate LTE and 5G energy consu
   <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4">
 </p>
 
-`Dashboard Development` • `KPI Reporting` • `Data Visualization`  
+`Power BI`• `Tableau`• `Dashboard Development` • `KPI Reporting` • `Data Visualization`  
 `Dashboard Requirements` • `Operational Reporting` • `Stakeholder Insights`
 
 ### Databases, Platforms and AI
@@ -314,4 +314,3 @@ I am particularly interested in positions where I can combine data analysis, bus
   </a>
 </p>
 
-Thank you for visiting my profile. Please explore my repositories to learn more about my analytics, business intelligence, and AI application projects.
