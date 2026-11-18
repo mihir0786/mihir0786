@@ -174,7 +174,7 @@ Developed an interactive analytics dashboard to evaluate LTE and 5G energy consu
 ### University of Florida
 
 **Teaching Assistant — System Design & Development / Business Database Systems**  
-*August 2025 – April 2026 | Gainesville, Florida*
+*August 2025 – present  | Gainesville, Florida*
 
 - Provided technical guidance to more than 100 graduate students on database systems, system design, development, troubleshooting, and environment setup.
 - Helped students understand complex technical and analytical concepts.
@@ -199,7 +199,7 @@ Developed an interactive analytics dashboard to evaluate LTE and 5G energy consu
 ### Jio Platforms Limited
 
 **Data Science Intern**  
-*May 2023 – July 2023 | Mumbai, India*
+*May 2023 – June 2023 | Mumbai, India*
 
 - Developed a Python and Streamlit dashboard for analyzing LTE and 5G energy usage.
 - Consolidated multiple CSV datasets and calculated net power consumption.
